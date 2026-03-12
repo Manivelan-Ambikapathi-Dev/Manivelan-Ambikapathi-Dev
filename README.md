@@ -47,12 +47,6 @@
 
 ---
 
-## 📊 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MANIVELAN-AMBIKAPATHI-PROFILE\&theme=react-dark)
-
----
-
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/manivelan-ambikapathi
