@@ -1,47 +1,27 @@
-# Hi there 👋, I'm Pranesh Manickam!
+# Hi 👋 I'm Manivelan Ambikapathi
+
+🚀 Full Stack Developer | React.js | Node.js | Express.js
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;3%2B+Years+Experience;React+%7C+Node+%7C+MySQL;Always+Learning+New+Things" />
-</p>
+## 💫 About Me
+
+* 💻 Full Stack Developer passionate about building scalable web applications
+* ⚛️ Specialized in **React.js, Node.js, and Express.js**
+* 🎨 Building responsive UI based on **Figma designs**
+* 🔄 Creating **reusable components** and clean code architecture
+* ⚡ Working in **Agile development environments**
 
 ---
 
-🌟 A passionate MERN Stack Developer with 3 years and 10 months of experience in building web applications.  
-🚀 I love solving real-world problems using technology and exploring the latest web development trends.
+## 🚀 Tech Stack
 
----
-
-## 📫 Let's Connect!
-- 📧 [Email](mailto:praneshappu2001@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranesh-manickam/)
-- 🌐 [Portfolio](https://stalwart-maamoul-2e8c93.netlify.app/)
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pranesh-manickam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranesh-manickam&show_icons=true&theme=github&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=pranesh-manickam&theme=github&cache_seconds=1800" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranesh-manickam&theme=github-light" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github)
 
 ---
 
@@ -78,42 +58,18 @@
 
 ---
 
-## 🌟 Fun Facts
+## 📊 Contribution Graph
 
-* 💻 I started my development journey by exploring **JavaScript and React** and building real-world web applications.
-* ⚛️ I enjoy creating **reusable React components** and clean UI based on **Figma designs**.
-* 🚀 Passionate about building **scalable full-stack applications using React, Node.js, and Express.js**.
-* 🔍 Always curious about learning new technologies and improving **problem-solving skills**.
-* ☕ Debugging code, building features, and drinking coffee — the perfect developer routine.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MANIVELAN-AMBIKAPATHI-PROFILE\&theme=react-dark)
 
 ---
 
-## ✨ Philosophy
+## 📫 Connect With Me
 
-> "First, solve the problem. Then, write the code." – John Johnson
-
-
-## 🌟 Fun Facts  
-- 💻 I started coding by Googling **"How to build a website"**—and here we are!  
-- 🌱 Currently exploring the wonders of **AI**, **cloud technologies**, and diving deep into **Data Structures and Algorithms (DSA)** to level up my problem-solving skills.  
-- 🎮 Gamer by night, developer by day, coffee enthusiast 24/7.  
-- 🚀 My code works 99% of the time… the other 1%? It’s a *feature*! 😉  
-- 🛠️ I firmly believe in the philosophy: **“Why do it manually when you can script it?”**  
+* LinkedIn: https://www.linkedin.com/in/manivelan-ambikapathi
+* GitHub: https://github.com/MANIVELAN-AMBIKAPATHI-PROFILE
+* Email: [manivelan1704@gmail.com](mailto:manivelan1704@gmail.com)
 
 ---
 
-## ✨ Philosophy  
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-## 🌱 Currently Learning
-- **Deep Dive** into **Data Structures and Algorithms (DSA)**  
-
----
-
-## 💬 Let's Chat!
-Feel free to reach out via email or LinkedIn if you want to collaborate, chat about technology, or just geek out over some cool projects!
-
----
-
+⭐ If you like my work, feel free to connect with me!
