@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋 I'm Manivelan Ambikapathi
 
-<!--
-**Manivelan-Ambikapathi-Dev/Manivelan-Ambikapathi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React.js | Node.js | Express.js
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+* 💻 Full Stack Developer passionate about building scalable web applications
+* ⚛️ Specialized in **React.js, Node.js, and Express.js**
+* 🎨 Building responsive UI based on **Figma designs**
+* 🔄 Creating **reusable components** and clean code architecture
+* ⚡ Working in **Agile development environments**
+
+---
+
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![Manivelan GitHub stats](https://github-readme-stats.vercel.app/api?username=MANIVELAN-AMBIKAPATHI-PROFILE\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MANIVELAN-AMBIKAPATHI-PROFILE\&theme=radical)
+
+---
+
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANIVELAN-AMBIKAPATHI-PROFILE\&layout=compact\&theme=radical)
+
+---
+
+## 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MANIVELAN-AMBIKAPATHI-PROFILE\&theme=react-dark)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/manivelan-ambikapathi
+* GitHub: https://github.com/MANIVELAN-AMBIKAPATHI-PROFILE
+* Email: [manivelan1704@gmail.com](mailto:manivelan1704@gmail.com)
+
+---
+
+⭐ If you like my work, feel free to connect with me!
