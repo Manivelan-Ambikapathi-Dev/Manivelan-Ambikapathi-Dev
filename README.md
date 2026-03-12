@@ -27,32 +27,32 @@
 
 ## 📊 GitHub Stats
 
-![Manivelan GitHub stats](https://github-readme-stats.vercel.app/api?username=MANIVELAN-AMBIKAPATHI-PROFILE\&show_icons=true\&theme=radical)
+![Manivelan GitHub stats](https://github-readme-stats.vercel.app/api?username=Manivelan-Ambikapathi-Dev\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MANIVELAN-AMBIKAPATHI-PROFILE\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Manivelan-Ambikapathi-Dev\&theme=radical)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANIVELAN-AMBIKAPATHI-PROFILE\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manivelan-Ambikapathi-Dev\&layout=compact\&theme=radical)
 
 ---
 
 ## 📊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MANIVELAN-AMBIKAPATHI-PROFILE\&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manivelan-Ambikapathi-Dev\&theme=react-dark)
 
 ---
 
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/manivelan-ambikapathi
-* GitHub: https://github.com/MANIVELAN-AMBIKAPATHI-PROFILE
+* GitHub: https://github.com/Manivelan-Ambikapathi-Dev
 * Email: [manivelan1704@gmail.com](mailto:manivelan1704@gmail.com)
 
 ---
